@@ -24,4 +24,4 @@ plt.show()
 # Classification report
 targets = ['Class-0', 'Class-1', 'Class-2', 'Class-3', 'Class-4']
 print('\n', classification_report(true_labels, pred_labels, target_names=targets))
-
+22:31
